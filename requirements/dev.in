@@ -3,4 +3,4 @@
 -c constraints.txt
 
 pip-tools                 # Requirements file management
-tox                       # virtualenv management for tests
+tox<4                     # virtualenv management for tests
